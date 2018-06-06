@@ -1,0 +1,7 @@
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPAutomation\SFTPAutomation\bin\Debug\SFTPAutomation.exe
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPAutomation\SFTPAutomation\bin\Debug\SFTPAutomation.pdb
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPAutomation\SFTPAutomation\obj\x86\Debug\SFTPAutomation.exe
+c:\users\tavano\documents\visual studio 2010\Projects\SFTPAutomation\SFTPAutomation\obj\x86\Debug\SFTPAutomation.pdb
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\SFTPAutomation\SFTPAutomation\obj\x86\Debug\SFTPAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\SFTPAutomation\SFTPAutomation\obj\x86\Debug\SFTPAutomation.Properties.Resources.resources
+C:\Users\Tavano\Documents\Visual Studio 2010\Projects\SFTPAutomation\SFTPAutomation\obj\x86\Debug\SFTPAutomation.csproj.GenerateResource.Cache
